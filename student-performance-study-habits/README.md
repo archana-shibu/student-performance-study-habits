@@ -30,4 +30,4 @@ Power BI Desktop, DAX, PowerPoint
 Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) and open `Project_student_performance.pbix`.
 
 ## Author
-Archana Shibu/ linkedin.com/in/archana-shibu-4524692a2
+Archana Shibu · [LinkedIn](https://www.linkedin.com/in/archana-shibu-4524692a2)
